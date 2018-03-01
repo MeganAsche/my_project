@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
@@ -14,3 +15,6 @@ dat = pd.read_csv('data/gapminder_gdp_oceania.csv')
 oceania = pd.read_csv('data/gapminder_gdp_oceania.csv')
 
 #working with ocieania data
+
+new_oceania = pd.read_csv('data/gapminder_gdp_oceania.csv')
+
