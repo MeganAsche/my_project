@@ -12,3 +12,5 @@ dat = pd.read_csv('data/gapminder_gdp_europe.csv')
 dat = pd.read_csv('data/gapminder_gdp_oceania.csv')
 
 oceania = pd.read_csv('data/gapminder_gdp_oceania.csv')
+
+#working with ocieania data
